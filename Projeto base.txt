@@ -1,0 +1,5 @@
+1= html, css e javascript;
+2= backend(java ou phyton);
+3= Repositório já criado;
+4= conexão entre pivot;
+5= DER;
